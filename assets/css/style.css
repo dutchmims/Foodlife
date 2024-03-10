@@ -13,8 +13,7 @@ header {
 
 #logo {
     font-size: 36px;
-    color: #333; /* Change text color to contrast with the header background */
-    font-weight: bold;
+    color: #333; 
 }
 
 nav {
@@ -53,7 +52,7 @@ section {
 footer {
     padding: 20px;
     text-align: center;
-    color: #333; /* Change text color to contrast with the footer background */
+    color: #333; 
 }
 
 @media (max-width: 768px) {
@@ -75,8 +74,8 @@ footer {
 }
 
 #hero-image {
-    height: 300px; /* Adjust the height as needed */
+    height: 300px; 
     width: 100%;
     background: url('../images/hero_image.jpg') no-repeat center center;
-    background-size: cover; /* Ensure the image covers the entire container */
+    background-size: cover; 
 }
