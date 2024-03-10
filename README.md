@@ -19,31 +19,32 @@ To build a site in lkeeping with the founders of Foodlife. A group of passionate
 
 ### HTML Document Structure:
 
-* <!DOCTYPE html>: Declares the document type and version of HTML.
-* <html>: The root element of the HTML document.
-* <head>: Contains meta-information about the HTML document, such as character set, viewport settings, and links to external stylesheets.
-* <meta>: Provides metadata like character set, viewport, description, and keywords.
-* <link>: Links to an external stylesheet ("style.css").
-* <title>: Sets the title of the webpage.
-* <body>: Contains the main content of the HTML document.
+* <!DOCTYPE html> Declares the document type and version of HTML.
+* <html> The root element of the HTML document.
+* <head> Contains meta-information about the HTML document, such as character set, viewport settings, and links to external stylesheets.
+* <meta> Provides metadata like character set, viewport, description, and keywords.
+* <link> Links to an external stylesheet ("style.css").
+* <title> Sets the title of the webpage.
+* <body> Contains the main content of the HTML document.
 
 ### Header Section:
 
-*<header>: Contains the website's header, including a logo and navigation menu.
-* <a>: Links the logo to the homepage.
-* <nav>: Defines the navigation menu.
-* <ul> and <li>`: Unordered list and list items for the navigation links.
-* <a>: Defines each navigation link.
+* <header> Contains the website's header, including a logo and navigation menu.
+* <a> Links the logo to the homepage.
+* <nav> Defines the navigation menu.
+* <ul> Unordered list for the navigation links.
+* <li> list items for the navigation links.
+* <a> Defines each navigation link.
 
 ### Main Content Section:
 
-* <main>: Wraps the main content of the website.
+* <main> Wraps the main content of the website.
 
 ### Footer Section:
 
-* <footer>: Contains copyright information and a placeholder for social links.
-* <p>: Displays the copyright notice.
-* Comment: A placeholder for social links, indicating that they should be added but not implemented in the provided code.
+* <footer> Contains copyright information and a placeholder for social links.
+* <p> Displays the copyright notice.
+* Comment A placeholder for social links, indicating that they should be added but not implemented in the provided code.
 
 # UX/UI Section 
 
