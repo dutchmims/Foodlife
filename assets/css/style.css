@@ -7,16 +7,13 @@ body {
 }
 
 header {
-    background-color: #ff7e67;
-    color: #fff;
     padding: 20px;
     text-align: center;
 }
 
 #logo {
     font-size: 36px;
-    color: #fff;
-    text-decoration: none;
+    color: #333; /* Change text color to contrast with the header background */
     font-weight: bold;
 }
 
@@ -54,10 +51,9 @@ section {
 }
 
 footer {
-    background-color: #ff7e67;
-    color: #fff;
     padding: 20px;
     text-align: center;
+    color: #333; /* Change text color to contrast with the footer background */
 }
 
 @media (max-width: 768px) {
@@ -76,4 +72,11 @@ footer {
     footer {
         padding: 15px;
     }
+}
+
+#hero-image {
+    height: 300px; /* Adjust the height as needed */
+    width: 100%;
+    background: url('../images/hero_image.jpg') no-repeat center center;
+    background-size: cover; /* Ensure the image covers the entire container */
 }
